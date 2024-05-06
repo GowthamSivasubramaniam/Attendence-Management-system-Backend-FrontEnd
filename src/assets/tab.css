@@ -1,0 +1,18 @@
+td{
+    border-width: 0px;
+    padding: 20px;
+    width: 150px;
+    border-style: solid;
+    background-color: rgb(216, 251, 209);
+    border-radius:10px
+}
+th{
+    padding: 20px;
+    background-color: rgb(69, 125, 63);
+    border-radius:10px;
+    color:white;
+}
+.th{
+    padding: 20px;
+    background-color: rgb(61, 80, 248);
+}
